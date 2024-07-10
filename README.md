@@ -1,4 +1,5 @@
 # Breast-cancer-dataset
+# ("importing dataset into sklearn")
 This program implements and compares five machine learning classification algorithms on the breast cancer dataset:
 
 Logistic Regression
