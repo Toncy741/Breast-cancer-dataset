@@ -1,10 +1,14 @@
 This program implements and evaluates five widely-used machine learning classification algorithms on the breast cancer dataset from scikit-learn
 
-Logistic Regression
-Decision Tree
-Random Forest
-Support Vector Machine (SVM)
-k-Nearest Neighbors (k-NN)
+* Logistic Regression
+
+* Decision Tree
+
+* Random Forest
+
+* Support Vector Machine (SVM)
+
+* k-Nearest Neighbors (k-NN)
 
 
 The dataset undergoes preprocessing, including feature scaling to normalize the input variables. The data is then split into training and testing sets. Each algorithm is trained on the training data and evaluated using accuracy metrics on the held-out test set.
