@@ -15,11 +15,16 @@ The dataset undergoes preprocessing, including feature scaling to normalize the 
 Results:
 All models demonstrated strong performance, with accuracies ranging from 94.74% to 97.37%. The results are as follows:
 
-Logistic Regression: 97.37%
-Support Vector Machine (SVM): 97.37%
-Random Forest: 96.49%
-Decision Tree: 94.74%
-k-Nearest Neighbors (k-NN): 94.74%
+
+* Logistic Regression: 97.37%
+  
+* Support Vector Machine (SVM): 97.37%
+  
+* Random Forest: 96.49%
+
+* Decision Tree: 94.74%
+  
+* k-Nearest Neighbors (k-NN): 94.74%
 
 Analysis:
 The narrow performance range (2.63% difference between highest and lowest accuracies) suggests that all tested algorithms are viable options for this particular dataset. Notably, the linear models (Logistic Regression and SVM) achieved the highest accuracy, which is somewhat unexpected given the complex nature of biological data. This could indicate that the breast cancer dataset has strong linear separability in its feature space.
